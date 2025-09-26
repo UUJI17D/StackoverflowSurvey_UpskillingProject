@@ -30,7 +30,7 @@ This project harmonizes survey schemas across years, quantifies the rise of AI-r
 
 - `Project.ipynb` — Main notebook: data ingestion, schema harmonization (2017–2025), analysis, and figures.
 - `README.md` — This file.
-- 'docs' - A folder containing the blogpost for this analysis.
+- `docs/index.html` - Html-file with a blogpost for this analysis.
 
 ## Results<a name="results"></a>
 
@@ -41,7 +41,7 @@ This project harmonizes survey schemas across years, quantifies the rise of AI-r
 - **Usage patterns**: Writing code and search for answers lead; code review, deployment/monitoring, and project planning remain less AI-driven.
 - **Data quality notes**: Yearly schema changes and high non-response (particularly for usage blocks) require cautious interpretation.
 
-The main findings of the code can be found at the post available [here](tbd).
+The main findings of the code can be found at the post available [here](https://uuji17d.github.io/StackoverflowSurvey_UpskillingProject/).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
