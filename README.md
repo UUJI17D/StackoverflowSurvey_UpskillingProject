@@ -46,3 +46,4 @@ The main findings of the code can be found at the post available [here](tbd).
 
 - Stack Overflow for the Developer Survey and documentation which can be found [here](https://survey.stackoverflow.co/).
 - Open-source libraries and their maintainers (pandas, numpy, matplotlib, seaborn, jupyter, etc.).
+- Udacity for motivating this analysis during a data science course.
