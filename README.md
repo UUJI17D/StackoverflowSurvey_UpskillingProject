@@ -30,7 +30,7 @@ This project harmonizes survey schemas across years, quantifies the rise of AI-r
 
 - `Project.ipynb` — Main notebook: data ingestion, schema harmonization (2017–2025), analysis, and figures.
 - `README.md` — This file.
-- `docs/index.html` - Html-file with a blogpost for this analysis.
+- `docs` - Files necessary for the blogpost for this analysis.
 
 ## Results<a name="results"></a>
 
